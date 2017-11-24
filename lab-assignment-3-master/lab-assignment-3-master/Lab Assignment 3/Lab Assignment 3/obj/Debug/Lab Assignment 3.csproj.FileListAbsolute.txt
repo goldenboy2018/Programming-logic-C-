@@ -1,0 +1,6 @@
+C:\Users\Anita\Desktop\Lab Assignment 3\Lab Assignment 3\bin\Debug\Lab Assignment 3.exe.config
+C:\Users\Anita\Desktop\Lab Assignment 3\Lab Assignment 3\bin\Debug\Lab Assignment 3.exe
+C:\Users\Anita\Desktop\Lab Assignment 3\Lab Assignment 3\bin\Debug\Lab Assignment 3.pdb
+C:\Users\Anita\Desktop\Lab Assignment 3\Lab Assignment 3\obj\Debug\Lab Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Anita\Desktop\Lab Assignment 3\Lab Assignment 3\obj\Debug\Lab Assignment 3.exe
+C:\Users\Anita\Desktop\Lab Assignment 3\Lab Assignment 3\obj\Debug\Lab Assignment 3.pdb
