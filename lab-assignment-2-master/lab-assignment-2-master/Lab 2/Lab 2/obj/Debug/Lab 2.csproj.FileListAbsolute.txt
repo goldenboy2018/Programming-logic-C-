@@ -1,0 +1,2 @@
+C:\Users\Anita\Desktop\Lab 2\Lab 2\bin\Debug\Lab 2.exe.config
+C:\Users\Anita\Desktop\Lab 2\Lab 2\obj\Debug\Lab 2.csprojResolveAssemblyReference.cache
